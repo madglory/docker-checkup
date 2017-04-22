@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM jsurf/rpi-alpine
 
 
 # install requirements
